@@ -76,9 +76,4 @@ const mostrarTransferencias = async() =>{
     return result.rows;
 }
 
-
-
-
-
-
 module.exports = { agregarUsuario, mostrarTodosLosUsuarios, editarUsuario, borrarUsuario, transferencia, mostrarTransferencias};
