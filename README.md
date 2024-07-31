@@ -12,7 +12,7 @@ El Banco Solar ha decidido invertir en un nuevo sistema de transferencias y requ
 
 ## Vista del Diseño
 
-A continuación, se muestra una imagen de la interfaz cliente preparada para interactuar con el servidor.
+A continuación, se muestra una imagen de la interfaz cliente preparada para interactuar con el servidor:
 
 ![banco](screenshot/banco.png)
 
